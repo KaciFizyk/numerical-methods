@@ -12,7 +12,7 @@ Zakres projektów obejmuje metody numeryczne stosowane w fizyce, w tym:
 
 - kody źródłowe implementacji metod numerycznych,
 - wyniki symulacji (wykresy, dane wyjściowe),
-- przykładowe analizy dla wybranych problemów fizycznych.
+- analizy w postaci sprawozdań dla przedstawionych projektów.
 
 ## ⚙️ Przykładowe zagadnienia
 
@@ -23,4 +23,4 @@ Zakres projektów obejmuje metody numeryczne stosowane w fizyce, w tym:
 
 ## 🎯 Cel repozytorium
 
-Celem repozytorium jest praktyczne zastosowanie metod numerycznych w fizyce oraz analiza zachowania układów dynamicznych przy użyciu symulacji komputerowych.
+Celem repozytorium jest praktyczne zastosowanie metod numerycznych w fizyce oraz analiza zachowania układów dynamicznych przy użyciu symulacji komputerowych. Sprawozdania z opisem i analizą wyników są przygotowane w LaTeX i dostępne w formacie PDF.
